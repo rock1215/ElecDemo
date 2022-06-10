@@ -14,6 +14,9 @@ git clone https://github.com/rock1215/ElecDemo
 ### Run the project.
 ![Alt text](/images/runios.png?raw=true "Run iOS app")
 
+### Turn on all the features and Allow button at the top Right Corner.
+![Alt text](/images/turnon.png?raw=true "Turn on Features")
+
 ### Change Target to ElectDemoWatchApp(WatchOS)
 ![Alt text](/images/targetwatchos.png?raw=true "Target watchOS")
 
